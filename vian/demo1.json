@@ -1,0 +1,25 @@
+[
+    {
+        "id": 1,
+        "fullName": "Vũ Minh Lâm",
+        "age": 23,
+        "adress": {
+            "streetAdress": "cổ nhuế 1",
+            "city": "Hà Nội"
+        },
+        "id": 2,
+        "fullName": "Vũ Minh Lâm",
+        "age": 23,
+        "adress": {
+            "streetAdress": "cổ nhuế 1",
+            "city": "DN"
+        },
+        "id": 3,
+        "fullName": "Vũ Minh Lâm",
+        "age": 23,
+        "adress": {
+            "streetAdress": "cổ nhuế 1",
+            "city": "QN"
+        }
+    }
+]
